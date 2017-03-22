@@ -14,6 +14,16 @@ Each file contains all of the data for one release date. The object contains a f
 
 Contributions are welcome. Simple follow the same pattern for the previous files by release date.
 
-## Warranty
+## Disclaimer
+
+Floating point numbers are notoriously difficult to work with in JavaScript. Read [What Every JavaScript Developer Should Know About Floating Points](https://modernweb.com/what-every-javascript-developer-should-know-about-floating-points/) by Brian Rinaldi for more info.
 
 **This data comes with no warranty.**
+
+This program is free software. It comes without any warranty, to the extent permitted by applicable law. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See [http://www.wtfpl.net/](http://www.wtfpl.net/) for more details.
+
+## License
+
+Copyright © 2017 Sia Karamalegos and contributors, [http://siakaramalegos.github.io/](http://siakaramalegos.github.io/)
+This work is free. You can redistribute it and/or modify it under the terms of the Do What The Fuck You Want To Public License, Version 2, as published by Sam Hocevar. See [http://www.wtfpl.net/](http://www.wtfpl.net/) for more details.
+
