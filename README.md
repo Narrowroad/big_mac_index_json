@@ -6,6 +6,10 @@ The only problem is it's not in an easily digestible format for web development.
 
 Check out [The Economist's Big Mac Index site](http://www.economist.com/content/big-mac-index) for more information on the project and the concepts of purchasing power and currency valuations.
 
+## Data
+
+Each file contains all of the data for one release date. The object contains a field for the release date in `YYYY-MM-DD` (ISO 8601) format. Note that the release dates provided are only month and year, so I added `01` for the day.
+
 ## Contributing
 
 Contributions are welcome. Simple follow the same pattern for the previous files by release date.
