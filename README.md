@@ -6,4 +6,10 @@ The only problem was it was not in an easily digestible format for web developme
 
 Check out [The Economist's Big Mac Index site](http://www.economist.com/content/big-mac-index) for more information on the project and the concepts purchasing power and currency valuations.
 
-This data comes with no warranty.
+## Contributing
+
+Contributions are welcome. Simple follow the same pattern for the previous files by release date.
+
+## Warranty
+
+**This data comes with no warranty.**
